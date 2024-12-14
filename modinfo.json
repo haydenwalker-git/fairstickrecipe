@@ -1,0 +1,10 @@
+{
+    "type": "content",
+    "modid": "fairstickrecipe",
+    "name": "Fair Stick Recipe",
+    "authors": [
+        "BigBrainNigel"
+    ],
+    "description": "Allows you to craft sticks so you don't have to spend forever foraging them. Check the sitck page of the handbook for the recipes!",
+    "version": "1.1.1"
+}
